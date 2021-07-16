@@ -1,2 +1,2 @@
 # FSEV21
-All codes and Flowcharts related to Formula Bharat FSEV 21
+All codes and flowcharts related to Formula Bharat FSEV 21
